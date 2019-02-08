@@ -1,0 +1,38 @@
+// 20190208122119
+// http://localhost:8100/currency-converter/from/EUR/to/INR/quantity/10000
+
+{
+  "id": 10002,
+  "from": "EUR",
+  "to": "INR",
+  "conversionMultiple": 75.00,
+  "quantity": 10000,
+  "totalCalculatedAmount": 750000.00,
+  "port": 8001
+}
+
+
+// 20190208122150
+// http://localhost:8100/currency-converter/from/EUR/to/INR/quantity/10000
+
+{
+  "id": 10002,
+  "from": "EUR",
+  "to": "INR",
+  "conversionMultiple": 75.00,
+  "quantity": 10000,
+  "totalCalculatedAmount": 750000.00,
+  "port": 8001
+}
+
+
+// 20190208122158
+// http://localhost:8000/currency-exchange/from/EUR/to/INR
+
+{
+  "id": 10002,
+  "from": "EUR",
+  "to": "INR",
+  "conversionMultiple": 75.00,
+  "port": 8000
+}
